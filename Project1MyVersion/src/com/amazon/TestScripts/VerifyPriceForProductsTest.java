@@ -9,7 +9,7 @@ import utils.GenericMethod;
 
 public class VerifyPriceForProductsTest extends Base
 {
-	
+	//class name changed form VerifyPriceForProducts to VerifyPriceForProductsTest
 
 	@Test
 	public void verifyProductPrice() throws IOException 
